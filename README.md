@@ -1,9 +1,9 @@
 # 前端分享
 MDN文档链接
-+ [HTML][1]
-+ [HTML5][2]
-+ [CSS][3]
-+ [JavaScript][4]
++ [HTML][1]{:target="_blank"}  
++ [HTML5][2]{:target="_blank"}  
++ [CSS][3]{:target="_blank"}  
++ [JavaScript][4]{:target="_blank"}  
 
 
 
